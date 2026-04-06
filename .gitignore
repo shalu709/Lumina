@@ -1,0 +1,38 @@
+# Secrets
+secrets/
+config.json
+.db.properties
+.env
+.env.local
+
+# Tools & Metadata
+.tools/
+.antigravity/
+.gemini/
+
+# Node
+node_modules/
+dist/
+build/
+.npm/
+
+# Java/Maven/Spring Boot
+target/
+*.class
+*.jar
+*.war
+.mvn/
+!mvnw
+!mvnw.cmd
+.springBeans
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.cache
