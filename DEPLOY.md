@@ -2,7 +2,7 @@
 
 Lumina uses a zero-cost stack intended for college students to easily run and host.
 
-## 1. Hosting the Backend (Render / Railway)
+## 1. Hosting the Backend (Render / Railway) 
 Since GitHub Pages only hosts static sites, you must host your Java Spring Boot API on a service like **Render**.
 
 1. Create an account on Render.com and connect your GitHub.
