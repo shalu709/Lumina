@@ -1,6 +1,6 @@
 # Lumina - The Academic Operating System
 
-Lumina is an all-in-one productivity suite built to solve the 11 biggest pain points for college students. By combining task tracking, an AI tutor, attendance guards, and note management, Lumina serves as a unified digital campus.
+Lumina is an all-in-one productivity suite built to solve the 11 biggest pain points for college students. By combining task tracking, an AI tutor, attendance guards, and note management, Lumina serves as a unified digital campus....
 
 ## Features Built
 - **The 75% Guard:** Visual tracker ensuring you don't fall below mandatory attendance.
