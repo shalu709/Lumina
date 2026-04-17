@@ -1,4 +1,4 @@
--- Lumina Database Schema for Supabase (PostgreSQL)
+-- Lumina Database Schema for Supabase (PostgreSql) 
 
 -- 1. app_users
 CREATE TABLE IF NOT EXISTS app_users (
